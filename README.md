@@ -1,7 +1,7 @@
 
 ![Banner](https://raw.githubusercontent.com/Luminous418/Luminous418/refs/heads/main/assets/Banner.png)
 <div align="center">
-  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Luminous418&repo=Luminous418&countColor=%235224c4" alt="Profile Views" class="center">
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=Luminous418&repo=Luminous418&countColor=%232768F5" alt="Profile Views" class="center">
 </div>
 
 # 👦 About Me:
