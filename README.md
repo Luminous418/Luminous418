@@ -11,7 +11,7 @@ I am a 19-year-old Spanish developer, who loves android, windows development, an
 [![Telegram](https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg)](https://t.me/Luminous418) 
 
 # 👨‍💻 Programming Languages I have learnt / still learning
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=unity&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white)
 
 # 🛠 IDEs I use
 ![VSCODIUM](https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=vscodium&logoColor=white) ![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
