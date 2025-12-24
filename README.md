@@ -17,7 +17,7 @@ I am a 19-year-old Spanish developer, who loves android, windows development, an
 ![VSCODIUM](https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=vscodium&logoColor=white) ![NotePad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black)
 
 # 🌎 Operating systems I use
-![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg) ![iOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg) ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg)
+![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg) ![iOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg) ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg) ![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
 
 # 👨‍💻 Tools and technologies I use
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
