@@ -18,7 +18,7 @@ I am a 19-year-old Spanish developer, who loves android, windows development, an
 
 # 🌎 Operating systems I use
 ![Android](https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg) ![iOS](https://ziadoua.github.io/m3-Markdown-Badges/badges/iOS/ios1.svg) ![Windows 11](https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows111.svg) ![Ubuntu](https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu1.svg)
-
+> Actually i use Ubuntu as WSL on Windows 11
 # 👨‍💻 Tools and technologies I use
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
