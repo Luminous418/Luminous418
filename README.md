@@ -26,7 +26,7 @@ I am a 19-year-old developer, who loves android, windows and linux development, 
 # ✨ My Learning sources
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white) ![Youtube](https://img.shields.io/badge/Youtube-%23B92B27.svg?&style=for-the-badge&logo=youtube&logoColor=white)
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Luminous418&theme=apprentice&hide_border=false" alt="Streak" />
 </p>
