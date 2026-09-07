@@ -13,7 +13,6 @@
 - 🔭 I'm currently learning **Bash, C#, HTML5, CSS3**
 - 🌱 I'm exploring **Android, Windows and Linux development**
 - 💬 Ask me about **programming, tech, or open source**
-- 📫 How to reach me: [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Luminous418)
 - 🤝 **Open to contributions** - Feel free to collaborate!
 
 ---
