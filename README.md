@@ -21,11 +21,7 @@
 
 <div align="center">
 
-[![Luminous418's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luminous418&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://github.com/Luminous418)
-<br>
 [![Luminous418's GitHub streak](https://streak-stats.demolab.com?user=Luminous418&theme=fire)](https://streak-stats.demolab.com)
-<br>
-[![Luminous418's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luminous418&layout=compact&theme=chartreuse-dark)](https://github.com/Luminous418)
 
 </div>
 
