@@ -59,9 +59,34 @@
 
 ## 🚀 Featured Projects
 
-<!-- Agrega aquí tus proyectos más importantes con el siguiente formato:
-[![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Luminous418&repo=repo-name&theme=chartreuse-dark)](https://github.com/Luminous418/repo-name)
--->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Luminous418/LumiROM">
+          <img src="https://img.shields.io/badge/LumiROM-Custom_ROM_for_MTK_G80-7C3AED?style=for-the-badge&logo=android&logoColor=white">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Luminous418/cloudy">
+          <img src="https://img.shields.io/badge/cloudy-OTA_Updater_for_LumiROM-2563EB?style=for-the-badge&logo=google-cloud&logoColor=white">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="https://github.com/Luminous418/LumiROM_page">
+          <img src="https://img.shields.io/badge/LumiROM_page-Official_Website-DB2777?style=for-the-badge&logo=html5&logoColor=white">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://github.com/Luminous418/GitGlass">
+          <img src="https://img.shields.io/badge/GitGlass-GitHub_client_for_iOS-F59E0B?style=for-the-badge&logo=github&logoColor=white">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
