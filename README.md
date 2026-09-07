@@ -35,7 +35,7 @@
 ## 🐍 Contributions Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Luminous418/Luminous418/dist/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/Luminous418/Luminous418/main/dist/github-contribution-grid-snake-dark.svg" width="100%">
 </div>
 
 ---
