@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A71B&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Hey+there!+I'm+Luminous418;I'm+a+19+year+old+developer;Welcome+to+my+profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F7A71B&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=70&lines=Hey+there!+I'm+Luminous418;Welcome+to+my+profile!" alt="Typing SVG">
 </div>
 
 ---
 
 ## 👦 About Me
 
-- 🔭 I'm currently learning **Bash, C#, HTML5, CSS3**
+- 🔭 I'm currently learning **Bash, Java, HTML5, CSS3**
 - 🌱 I'm exploring **Android, Windows and Linux development**
 - 💬 Ask me about **programming, tech, or open source**
 - 🤝 **Open to contributions** - Feel free to collaborate!
@@ -39,16 +39,16 @@
 
 ### 💻 Languages
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 💻 IDEs
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=vscodium&logoColor=white)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 
 ### 🖥️ Operating Systems
-![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows-11&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🔧 Tools
