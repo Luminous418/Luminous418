@@ -63,7 +63,7 @@
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/Luminous418/LumiROM">
+        <a href="https://github.com/LumiROM/LumiROM">
           <img src="https://img.shields.io/badge/LumiROM-Custom_ROM_for_MTK_G80-7C3AED?style=for-the-badge&logo=android&logoColor=white">
         </a>
       </td>
@@ -75,7 +75,7 @@
     </tr>
     <tr>
       <td width="50%">
-        <a href="https://github.com/Luminous418/LumiROM_page">
+        <a href="https://github.com/LumiROM/LumiROM_page">
           <img src="https://img.shields.io/badge/LumiROM_page-Official_Website-DB2777?style=for-the-badge&logo=html5&logoColor=white">
         </a>
       </td>
