@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Luminous418's GitHub streak](https://streak-stats.demolab.com?user=Luminous418&theme=fire)](https://streak-stats.demolab.com)
+[![Luminous418's GitHub streak](https://streak-stats.demolab.com?user=Luminous418&theme=dark)](https://streak-stats.demolab.com)
 
 </div>
 
