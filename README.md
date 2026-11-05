@@ -76,7 +76,7 @@
     <tr>
       <td width="50%">
         <a href="https://github.com/LumiROM/LumiROM_page">
-          <img src="https://img.shields.io/badge/LumiROM_page-Official_Website-DB2777?style=for-the-badge&logo=html5&logoColor=white">
+          <img src="https://img.shields.io/badge/HakiOS_16.5-Samsung_A32-6fa8dc?style=for-the-badge&logo=apple&logoColor=white">
         </a>
       </td>
       <td width="50%">
@@ -92,7 +92,7 @@
 
 ## 📫 Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Luminous418)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lumiromschat)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luminous418)
 
 ---
